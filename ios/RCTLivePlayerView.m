@@ -39,7 +39,7 @@
 - (id)init {
     self = [super init];
     if(self) {
-        _np = [[NodePlayer alloc] initWithPremium:@""];
+        _np = [[NodePlayer alloc] initWithLicense:@""];
         [_np setPlayerView:self];
         _srcUrl = nil;
         _canSendStatusEvent = NO;
