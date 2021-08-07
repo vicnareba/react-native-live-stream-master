@@ -6,7 +6,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-live-stream.git"
+        "url": "git+https://github.com/vicnareba/react-native-live-stream-master.git"
     },
     "keywords": [
         "react-component",
@@ -19,12 +19,12 @@
     ],
     "author": {
         "name": "Wonday",
-        "url": "https://github.com/wonday"
+        "url": "https://github.com/vicnareba"
     },
     "license": "MIT",
-    "homepage": "https://github.com/wonday/react-native-live-stream",
+    "homepage": "https://github.com/vicnareba/react-native-live-stream-master",
     "bugs": {
-        "url": "https://github.com/wonday/react-native-live-stream/issues"
+        "url": "https://github.com/vicnareba/react-native-live-stream-master/issues"
     },
     "dependencies": {
     },
